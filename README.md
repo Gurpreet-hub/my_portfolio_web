@@ -1,16 +1,35 @@
-# my_portfolio
+# my_portfolio_web
+Welcome to the repository for my Flutter web portfolio! This project demonstrates my skills in Flutter web development, showcasing various projects, skills, and my educational background.
+Built with the latest in Flutter technology, this web application is designed to provide an engaging user experience while demonstrating my proficiency in building responsive, modern web applications.
 
-A new Flutter project.
+## Screenshots
+
+![Mobile_View_About_Page](screenshots/image_1.png)
+*Mobile_View_About_Page*
+
+![[Mobile_View_Education_Page](screenshots/image_2.png) 
+![[Mobile_View_Education_Page](screenshots/image_3.png) 
+*Mobile_View_Education_Page*
+
+![Web_View_About_Page](screenshots/image_4.png)
+*Web_View_About_Page*
+
+![Web_View_Education_Page](screenshots/image_5.png)
+*Web_View_About_Page*
+
+## Features
+
+- **Interactive Portfolio:** Explore my projects, skills, and experience with interactive components and animations.
+- **Responsive Design:** Optimized for various devices and screen sizes, providing a seamless user experience.
+
+## Tech Stack
+
+- **Flutter:** Cross-platform framework for building natively compiled applications for web, mobile, and desktop from a single codebase
+- **Dart:** Programming language used to develop the application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/Gurpreet-hub/my_portfolio_web.git
