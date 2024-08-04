@@ -8,6 +8,7 @@ Built with the latest in Flutter technology, this web application is designed to
 *Mobile_View_About_Page*
 
 ![Mobile_View_Education_Page_1](screenshots/image_2.png)
+
 *Mobile_View_Education_Page_1*
 
 ![Mobile_View_Education_Page_2](screenshots/image_3.png) 
