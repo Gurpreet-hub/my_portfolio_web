@@ -4,19 +4,19 @@ Built with the latest in Flutter technology, this web application is designed to
 
 ## Screenshots
 
-![Mobile_View_About_Page](screenshots/image_1.png)
+[Mobile_View_About_Page](screenshots/image_1.png)
 *Mobile_View_About_Page*
 
-![[Mobile_View_Education_Page1](screenshots/image_2.png)
+[[Mobile_View_Education_Page1](screenshots/image_2.png)
 *Mobile_View_Education_Page1*
 
-![[Mobile_View_Education_Page2](screenshots/image_3.png) 
+[[Mobile_View_Education_Page2](screenshots/image_3.png) 
 *Mobile_View_Education_Page2*
 
-![Web_View_About_Page](screenshots/image_4.png)
+[Web_View_About_Page](screenshots/image_4.png)
 *Web_View_About_Page*
 
-![Web_View_Education_Page](screenshots/image_5.png)
+[Web_View_Education_Page](screenshots/image_5.png)
 *Web_View_Education_Page*
 
 ## Features
