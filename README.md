@@ -1,6 +1,6 @@
-# my_portfolio
+# my_portfolio_web
 
-A new Flutter project.
+This project showcases my skills and expertise in Flutter web development, presenting a dynamic and interactive portfolio that highlights my work, skills, and educational background. 
 
 ## Getting Started
 
